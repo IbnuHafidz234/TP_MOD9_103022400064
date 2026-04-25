@@ -1,0 +1,16 @@
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\bin\Debug\net10.0\TP_MOD9_103022400064.exe
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\bin\Debug\net10.0\TP_MOD9_103022400064.deps.json
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\bin\Debug\net10.0\TP_MOD9_103022400064.runtimeconfig.json
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\bin\Debug\net10.0\TP_MOD9_103022400064.dll
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\bin\Debug\net10.0\TP_MOD9_103022400064.pdb
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.AssemblyInfoInputs.cache
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.AssemblyInfo.cs
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.csproj.CoreCompileInputs.cache
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.sourcelink.json
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.dll
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\refint\TP_MOD9_103022400064.dll
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.pdb
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\TP_MOD9_103022400064.genruntimeconfig.cache
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\obj\Debug\net10.0\ref\TP_MOD9_103022400064.dll
+C:\Users\hafid\source\repos\TP_MOD9_103022400064\TP_MOD9_103022400064\bin\Debug\net10.0\covid_config.json
